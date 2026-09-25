@@ -85,9 +85,7 @@ retail-sales-analytics-sql-powerbi/
 - The West and East regions outperform South and Central in both sales volume and profit margin
 - Standard Class shipping accounts for the majority of orders with the longest average delivery time
 
-## Authors
+## Author
 
-- Srajan Sijariya
-- Pratyush Sahu
+- Garv Sehrawat
 
-**Department:** B.Tech Mechanical Engineering, IIT Ropar
